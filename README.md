@@ -19,7 +19,7 @@
       
       (a) The Balanced Accuracy : 0.6549165830684378
       
-      (b) Precision : High for _Low-Risk Loans_ and Low for _High-Risk Loans_.
+      (b) Precision : High risk - 1% |  Low risk - 100%
       
       (c) AVG Recall : 68
       
@@ -31,7 +31,7 @@
 
       (a) The Balanced Accuracy : 0.6417725241830539
       
-      (b) Precision : High for _Low-Risk Loans_ and Low for _High-Risk Loans_.
+      (b) Precision : High risk - 1% |  Low risk - 100%
       
       (c) AVG Recall : 65%
       
@@ -42,7 +42,7 @@
       
       (a) The Balanced Accuracy : 0.6417725241830539
       
-      (b) Precision : High for _Low-Risk Loans_ and Low for _High-Risk Loans_.
+      (b) Precision : High risk - 1% |  Low risk - 100%
       
       (c) AVG Recall : 65%
       
@@ -53,7 +53,7 @@
     
       (a) The Balanced Accuracy : 0.5291858539710166
       
-      (b) Precision : High for _Low-Risk Loans_ and Low for _High-Risk Loans_.
+      (b) Precision : High risk - 1% |  Low risk - 100%
       
       (c) AVG Recall : 52%
 
@@ -64,7 +64,7 @@
       
       (a) The Balanced Accuracy : 0.7666702926139454
       
-      (b) Precision : High for _Low-Risk Loans_ and Low for _High-Risk Loans_.
+      (b) Precision : High risk - 3% |  Low risk - 100%
       
       (c) AVG Recall : 90% 
       
@@ -76,11 +76,12 @@
          
       (a) The Balanced Accuracy : 0.9320507552042415
       
-      (b) Precision : High for _Low-Risk Loans_ and Low for _High-Risk Loans_.
+      (b) Precision : High risk - 8% |  Low risk - 100%
       
       (c) AVG Recall : 94%   
 
 
 ## Summary 
 
-
+    In this case, the Naive Random Oversampling would be the best machine learning model to work with since it is closest
+    to the highest compared accuracy of 1. 
