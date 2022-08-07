@@ -84,4 +84,7 @@
 ## Summary 
 
     In this case, the Naive Random Oversampling would be the best machine learning model to work with since it is closest
-    to the highest compared accuracy of 1. 
+    to the highest compared accuracy of 1. However, this machine learning model shows a weak precision in determining if a credit risk
+    is high. The Easy Ensemble AdaBoost Classifier has a 94% balanced accuracy that would easily detect high risk credit. But it's precision 
+    for determining high risk credit is also low. The bank may consider using these two together to get best results, or they should consider alternative 
+    methods. 
