@@ -47,4 +47,13 @@
       (c) AVG Recall : 65%
       
 
-        
+  - **_Combination (Over and Under) Sampling_**
+    
+    ![combination sampling](https://user-images.githubusercontent.com/103302566/183309198-ed9ca507-6b79-41a2-9bdd-e39e69fe5979.png)
+    
+      (a) The Balanced Accuracy : 0.5291858539710166
+      
+      (b) Precision : High for _Low-Risk Loans_ and Low for _High-Risk Loans_.
+      
+      (c) AVG Recall : 52%
+
