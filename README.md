@@ -57,3 +57,30 @@
       
       (c) AVG Recall : 52%
 
+
+  - **_Balanced Random Forest Classifier_**
+
+      ![balanced random forest classifier](https://user-images.githubusercontent.com/103302566/183309736-232d4808-82fa-4952-a188-ef5d3af5942e.png)
+      
+      (a) The Balanced Accuracy : 0.7666702926139454
+      
+      (b) Precision : High for _Low-Risk Loans_ and Low for _High-Risk Loans_.
+      
+      (c) AVG Recall : 90% 
+      
+      
+   - **_Easy Ensemble AdaBoost Classifier_**
+
+      ![easy ensemble classifier](https://user-images.githubusercontent.com/103302566/183309780-08dde165-6397-4c30-b6ea-e5500d138c30.png)
+      
+         
+      (a) The Balanced Accuracy : 0.9320507552042415
+      
+      (b) Precision : High for _Low-Risk Loans_ and Low for _High-Risk Loans_.
+      
+      (c) AVG Recall : 94%   
+
+
+## Summary 
+
+
